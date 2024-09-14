@@ -8,6 +8,11 @@ code {
 
 canvas {
   margin: auto;
+  background-color: #230024;
+}
+
+#user-stories {
+  font-size: 1.3rem;
 }
 
 .container {

@@ -1,3 +1,4 @@
 .env
+.vscode/*
 .glitch-assets
 node_modules/
